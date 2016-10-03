@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Login</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="hint_email">Email</string>
+    <string name="logout">Log Out</string>
+</resources>
